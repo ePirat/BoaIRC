@@ -1,8 +1,5 @@
-BoaIRC - A simple Python IRC Library
-=======================================
+# BoaIRC - A simple Python IRC Library
 
-<a href='http://boairc.readthedocs.io/en/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/boairc/badge/?version=latest' alt='Documentation Status' />
-</a>
+[![Documentation Status](https://readthedocs.org/projects/boairc/badge/?version=latest)](http://boairc.readthedocs.io/en/latest/?badge=latest)
 
 BoaIRC is a simple, threaded and handler-based IRC library for Python.
