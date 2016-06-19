@@ -2,7 +2,7 @@
 
 from threading import Thread
 
-from boa_irc_base import BoaIRCBase
+from .boa_irc_base import BoaIRCBase
 
 class BoaIRC(BoaIRCBase):
     """
